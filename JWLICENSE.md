@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 Robert Eveleigh
+Copyright (c) 2017 Jake Wright
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,9 +11,6 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
-If any of the software is owned by Copyright (c) 2017 Jake Wright you must add
-his Copyright (c) as well as I did the MIT License under the JWLICENSE.md
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
