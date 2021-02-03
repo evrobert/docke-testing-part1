@@ -42,7 +42,10 @@ I.E (docker run -p 80:80 hello-world)
 
 7.51 - 7.59     You can now test it buy going to you bowser typing I.E (localhost). you should be able to see hello world on the page.
 
-8.00 - 9.52     IF you want to make changes you will need to rebuild the image or add this part to your site as stated by him this will depend on your computer..
+8.00 - 9.52     IF you want to make changes you will need to rebuild the image or add this part to your site as stated by him this will depend on your computer Here is the way that I would run it..
+
+I.E (docker run -p 80:80 -v C:\Users\home\Documents\GitHub\docker-testing-part1/scr/:/var/www/ html/ hello-world)
+
 
 9.53 - 10.10    This part remines you need to rebuild the image again..
 
